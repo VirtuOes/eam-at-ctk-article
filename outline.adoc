@@ -10,11 +10,60 @@
 * Größe und Bedeutung des Gesundheitssektors
 * Anteil der Krankenhäuser am Bruttoinlandsprodukt
 
+| Jahr | Gesundheitsausgaben (% BIP) | Krankenhausausgaben (% BIP) | Automobilbranche (% BIP) |
+|------|-----------------------------|-----------------------------|--------------------------|
+| 2019 | 11,93% (414,49 Mrd. €)      | 2,98% (103,42 Mrd. €)       | 4,50% (156,33 Mrd. €)    |
+| 2020 | 12,96% (441,03 Mrd. €)      | 3,36% (114,30 Mrd. €)       | 4,50% (153,17 Mrd. €)    |
+| 2021 | 13,10% (474,13 Mrd. €)      | 3,17% (114,83 Mrd. €)       | 4,50% (162,79 Mrd. €)    |
+
+
+
+https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Gesundheitsausgaben/Tabellen/einrichtungen.html
+
+
 == Strategie Gesundheitsregion Lausitz und Uni Klinik Cottbus
 * Vision und Ziele der Gesundheitsregion
 * Rolle der Uni Klinik Cottbus im regionalen Gesundheitsnetzwerk
 * Digitalisierung und Leitkrankenhaus-Konzept
 ** Link: https://www.rbb24.de/studiocottbus/politik/2023/03/brandenburg-cottbus-universitaet-medizin-ausbildung-kabinett-konzept.html
+text:
+eit Jahren wird von einem Medizinstudium in Cottbus gesprochen, zuletzt war offen, ob es unter dem Dach der BTU stattfindet oder nicht. Nun wurden die konkreten Pläne für das bisher teuerste Strukturwandelprojekt in der Lausitz vorgestellt.
+Cottbus soll eigene Uni für angehende Mediziner bekommen
+CTK Cottbus soll Uniklinikum und "Digitales Leitkrankenhaus" werden
+Ziel: bis zu 1.300 Arbeitsplätze in Forschung und Lehre, 200 Studienanfänger pro Jahr
+Konzept muss noch vom Wissenschaftsrat geprüft werden
+Für den künftigen Medizinernachwuchs aus der Lausitz wird in Cottbus eine eigene Universität gegründet. Das steht im Konzept für den Aufbau der Universitätsmedizin in der Lausitz, das Wissenschaftsministerin Manja Schüle (SPD) am Dienstag vorgestellt hat. Zuvor hatte das Kabinett die Leitlinien der Landesregierung für das Konzept beschlossen.
+
+Damit wird die medizinische Fakultät nicht wie ursprünglich geplant an die BTU Cottbus-Senftenberg angegliedert. Schüle sagte im rbb, eine neue Universität zu gründen, sei die richtige Entscheidung. "Das passt am besten zur Region. Das ist das Modell, das wir brauchen", so Schüle in der Sendung rbb24 Brandenburg aktuell.
+Die Unimedizin in Cottbus gilt als eines der Leuchtturmprojekte im Lausitzer Strukturwandel. Bund und das Land wollen laut Schüle bis 2038 rund 2,1 Milliarden Euro für den Aufbau und den Betrieb investieren. Forschungsschwerpunkte sollen Gesundheitssystemforschung und Digitalisierung des Gesundheitswesens sein. Das Carl-Thiem-Klinikum (CTK) Cottbus soll zum Universitätsklinikum und "Digitalen Leitkrankenhaus" ausgebaut werden.
+
+Ministerpräsident Woidke und Lausitzbeauftragter Freytag bei der Vorstellung der Imagekampagne (Bild: dpa)
+dpa
+Strukturwandel
+Imagekampagne soll Fachkräfte in "krasse Gegend" Lausitz ziehen
+Wissenschaftsrat muss Konzept zustimmen
+Damit soll in Cottbus die 37. staatliche Unimedizin in Deutschland entstehen, die laut Manja Schüle ein "absolutes Alleinstellungsmerkmal" haben werde. "Die Verknüpfung von Versorgung, Lehre und Forschung mit den Schwerpunkten 'Gesundheitssystemforschung' und 'Digitalisierung des Gesundheitswesens' ist ein Profil, das es bisher nirgends in Deutschland gibt", wird sie in der Mitteilung der Staatskanzlei zitiert.
+Nachdem nun das Konzept vorliegt, wird es Ende März dem Wissenschaftsrat zur Prüfung vorgelegt. Die Arbeit werde laut Schüle etwa ein Jahr dauern, ein Ergebnis werde im Frühjahr 2024 erwartet. "Abhängig davon könnte die Medizinische Universität Mitte 2024 gegründet werden, 2026 könnten dann die ersten Studierenden starten", so die Staatskanzlei.
+
+Das CTK Cottbus soll nach den Plänen im Jahr 2024 als Uniklinikum in Landesträgerschaft überführt werden. Bis 2035 soll der Vollausbau der Unimedizin abgeschlossen sein. Bis zu 1.300 Arbeitsplätze sollen in Forschung und Lehre entstehen. Geplant werde mit 200 Studienanfängern pro Jahr. "Im Endausbau werden etwa 1.200 junge Menschen in Cottbus Medizin studieren", so Schüle in der Mitteilung der Staatskanzlei. Die ersten Lausitzer Ärzte sollen im Jahr 2032 die Uni verlassen.
+
+Der Weg zur Unimedizin
+Seit Jahren wird darüber gesprochen, dass künftig Medizinernachwuchs aus Cottbus kommen soll. Im Jahr 2019 war das erste Mal von einem Medizinstudium die Rede. Im Zuge des Strukturwandels solle eine staatliche Medizin-Fakultät mit dem Schwerpunkt digitale Medizin aufgebaut werden, die ersten Studenten sollten im Semester 2023/2024 starten - so damals der Plan, den der Brandenburger Ministerpräsident Dietmar Woidke und die damalige Wissenschaftsministerin Martina Münch (beide SPD) vorgestellt hatten.
+
+Im August 2021 hatte eine Expertenkommission dem Land Brandenburg schließlich konkrete Vorschläge für ein Projekt mit dem Namen "Innovationszentrum Universitätsmedizin (IUC)" vorgelegt. Demnach sollte an der BTU Cottbus-Senftenberg eine Medizinische Fakultät gegründet werden. Die Komission war es auch, die vorgeschlagen hatte, das CTK Cottbus zu einem Universitätsklinikum in Landesträgerschaft und einem "Digitalen Leitkrankenhaus" auszubauen.
+
+BTU Hörsaal (Foto: rbb)
+rbb
+Medizinische Hochschule in der Lausitz
+Cottbus soll offenbar eine zweite Universität bekommen
+Anfang 2023 wurde bekannt, dass für die geplante Medizinerausbildung offenbar eine eigene Universität gegründet werden soll. In einem Schreiben zeigte sich BTU-Präsidentin Gesine Grande unzufrieden. "Wir bedauern diese Entscheidung außerordentlich und sehen sie aus wissenschaftlicher und hochschulpolitischer Sicht kritisch."
+
+Seit die Expertenkommission vorgeschlagen hatte, die geplante Medizinerausbildung in die BTU zu integrieren, habe die Uni in gemeinsamen Arbeitsgremien mitgearbeitet und "mit Leidenschaft" ein passfähiges Konzept erstellt. "Diese Entscheidung kam für uns unerwartet, auch weil wir in den Entscheidungsprozess nicht eingebunden waren", erklärte Grande weiter.
+
+Dem rbb sagte Grande: "Es ist klar, dass die Universitätsmedizin ohne die BTU die Lehre in den Grundlagenfächern oder die angedachten interprofessionellen Schwerpunkte gar nicht gestalten kann." Wissenschaftsministerin Manja Schüle hat angekündigt, dass enge Kooperationen zwischen beiden Universitäten geplant seien.
+
+
+Sendung: Antenne Brandenburg, 21.03.2023, 15:10 Uhr
 
 == Das Umfeld Krankenhaus für EAM
 * Herausforderungen und Besonderheiten des Krankenhausumfelds
@@ -23,6 +72,7 @@
 == EAM Methoden: Capability Model & Domänenlandkarte
 * Definition und Bedeutung des Capability Models
 * Erstellung und Nutzung der Domänenlandkarte
+* Review
 
 == EAM Methoden: Systemarchäologie
 * Herausforderungen von Legacy-Architekturen
