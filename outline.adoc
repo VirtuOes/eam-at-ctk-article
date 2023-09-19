@@ -40,4 +40,9 @@ image::eam-strategy-pattern/strategy-execution-archimate.png[]
 
 == EAM-Strategie: Business Ökosystem Analyse
 * Bedeutung der Business Ökosystem Analyse für die IT-Strategie
+
+image::eam-strategy-ecosystem/ecosystem-basic-model.png[]
+
 * Aufbau von Fähigkeiten und Partnernetzwerken in der regionalen Branche
+
+image::eam-strategy-ecosystem/ctk-ecosystem-model.png[]
