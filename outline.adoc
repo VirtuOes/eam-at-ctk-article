@@ -13,12 +13,13 @@ Der Artikel beleuchtet die Implementierung von Enterprise Architecture Managemen
 * Größe und Bedeutung des Gesundheitssektors
 * Anteil der Krankenhäuser am Bruttoinlandsprodukt
 
-| Jahr | Gesundheitsausgaben (% BIP) | Krankenhausausgaben (% BIP) | Automobilbranche (% BIP) |
-|------|-----------------------------|-----------------------------|--------------------------|
-| 2019 | 11,93% (414,49 Mrd. €)      | 2,98% (103,42 Mrd. €)       | 4,50% (156,33 Mrd. €)    |
-| 2020 | 12,96% (441,03 Mrd. €)      | 3,36% (114,30 Mrd. €)       | 4,50% (153,17 Mrd. €)    |
-| 2021 | 13,10% (474,13 Mrd. €)      | 3,17% (114,83 Mrd. €)       | 4,50% (162,79 Mrd. €)    |
-
+[cols="1,1,1,1",options="header"]
+|===
+| Jahr | Gesundheitsausgaben (% BIP) | Krankenhausausgaben (% BIP) | Automobilbranche (% BIP)
+| 2019 | 11,93% (414,49 Mrd. €)      | 2,98% (103,42 Mrd. €)       | 4,50% (156,33 Mrd. €)
+| 2020 | 12,96% (441,03 Mrd. €)      | 3,36% (114,30 Mrd. €)       | 4,50% (153,17 Mrd. €)
+| 2021 | 13,10% (474,13 Mrd. €)      | 3,17% (114,83 Mrd. €)       | 4,50% (162,79 Mrd. €)
+|===
 
 
 https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Gesundheitsausgaben/Tabellen/einrichtungen.html
