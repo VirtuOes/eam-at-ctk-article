@@ -1,6 +1,9 @@
 = Enterprise Architectures in einem großen deutschen Krankenhaus
-:author: Philipp Michalke
+:author: Philipp Michalke, ChatGPT 4.0
 :date: 2023-09-19
+
+== Abstract
+Der Artikel beleuchtet die Implementierung von Enterprise Architecture Management (EAM) in einem großen deutschen Krankenhaus im Kontext der Region Lausitz und des Kohleausstiegs. Er beginnt mit einem historischen Überblick über die Lausitz und der Bedeutung des Kohleausstiegs für die Region. Anschließend wird die Rolle des Gesundheitssektors und insbesondere der Krankenhäuser im Bruttoinlandsprodukt Deutschlands dargestellt. Der zentrale Teil des Artikels konzentriert sich auf die Strategie der Gesundheitsregion Lausitz und der geplanten Universitätsklinik in Cottbus. Hierbei werden die Einzigartigkeit des Projekts, die geplanten Forschungsschwerpunkte und der Zeitplan detailliert erläutert. Der Artikel geht weiter auf die spezifischen Herausforderungen des Krankenhausumfelds für EAM ein und stellt verschiedene EAM-Methoden vor, die zur Bewältigung dieser Herausforderungen eingesetzt werden. Dies umfasst das Capability Model, die Domänenlandkarte und die Systemarchäologie. Die Koordination mit dem Program Portfolio Management und die EAM-Strategie, insbesondere das prinzipienbasierte Arbeiten und die Business Ökosystem Analyse, werden ebenfalls diskutiert. Der Artikel schließt mit einem Fazit ab, das die Bedeutung von EAM für den Geschäftserfolg von Krankenhäusern hervorhebt und die zukünftigen Perspektiven in diesem Bereich skizziert.
 
 == Einleitung: Region Lausitz und Kohleausstieg
 * Historischer Hintergrund der Lausitz
