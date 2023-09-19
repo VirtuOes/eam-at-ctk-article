@@ -22,65 +22,117 @@ https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Gesundheitsausg
 
 
 == Strategie Gesundheitsregion Lausitz und Uni Klinik Cottbus
-* Vision und Ziele der Gesundheitsregion
-* Rolle der Uni Klinik Cottbus im regionalen Gesundheitsnetzwerk
-* Digitalisierung und Leitkrankenhaus-Konzept
-** Link: https://www.rbb24.de/studiocottbus/politik/2023/03/brandenburg-cottbus-universitaet-medizin-ausbildung-kabinett-konzept.html
-text:
-eit Jahren wird von einem Medizinstudium in Cottbus gesprochen, zuletzt war offen, ob es unter dem Dach der BTU stattfindet oder nicht. Nun wurden die konkreten Pläne für das bisher teuerste Strukturwandelprojekt in der Lausitz vorgestellt.
-Cottbus soll eigene Uni für angehende Mediziner bekommen
-CTK Cottbus soll Uniklinikum und "Digitales Leitkrankenhaus" werden
-Ziel: bis zu 1.300 Arbeitsplätze in Forschung und Lehre, 200 Studienanfänger pro Jahr
-Konzept muss noch vom Wissenschaftsrat geprüft werden
-Für den künftigen Medizinernachwuchs aus der Lausitz wird in Cottbus eine eigene Universität gegründet. Das steht im Konzept für den Aufbau der Universitätsmedizin in der Lausitz, das Wissenschaftsministerin Manja Schüle (SPD) am Dienstag vorgestellt hat. Zuvor hatte das Kabinett die Leitlinien der Landesregierung für das Konzept beschlossen.
+* Gründung einer eigenen Universität für Medizinstudium in Cottbus
+  ** Nicht unter dem Dach der BTU Cottbus-Senftenberg
+  ** Als Teil des Lausitzer Strukturwandels
+  ** Investition von rund 2,1 Milliarden Euro bis 2038 durch Bund und Land
+* Schwerpunkte der Forschung
+  ** Gesundheitssystemforschung
+  ** Digitalisierung des Gesundheitswesens
+* Carl-Thiem-Klinikum (CTK) Cottbus
+  ** Ausbau zum Universitätsklinikum
+  ** Entwicklung zum "Digitalen Leitkrankenhaus"
+* Einzigartigkeit des Projekts
+  ** 37. staatliche Unimedizin in Deutschland
+  ** Fokus auf 'Gesundheitssystemforschung' und 'Digitalisierung des Gesundheitswesens'
+* Zeitplan
+  ** Konzeptprüfung durch den Wissenschaftsrat Ende März
+  ** Erwartetes Ergebnis im Frühjahr 2024
+  ** Gründung der Medizinischen Universität Mitte 2024
+  ** Start der ersten Studierenden 2026
+  ** Vollausbau der Unimedizin bis 2035
+  ** 1.300 Arbeitsplätze in Forschung und Lehre
+  ** 200 Studienanfänger pro Jahr geplant
+  ** Erste Lausitzer Ärzte verlassen die Uni 2032
+* Historischer Hintergrund
+  ** Erste Diskussionen über Medizinstudium in Cottbus 2019
+  ** Ursprünglicher Plan: Start des Studiums im Semester 2023/2024
+  ** Vorschlag 2021: Gründung einer Medizinischen Fakultät an der BTU Cottbus-Senftenberg
+  ** Entscheidung 2023: Gründung einer eigenen Universität für Medizinstudium
+* Reaktionen und Partnerschaften
+  ** Kritik von BTU-Präsidentin Gesine Grande
+  ** Betonung der Notwendigkeit der Zusammenarbeit zwischen der neuen Medizinuniversität und der BTU
+  ** Geplante enge Kooperationen zwischen beiden Universitäten
 
-Damit wird die medizinische Fakultät nicht wie ursprünglich geplant an die BTU Cottbus-Senftenberg angegliedert. Schüle sagte im rbb, eine neue Universität zu gründen, sei die richtige Entscheidung. "Das passt am besten zur Region. Das ist das Modell, das wir brauchen", so Schüle in der Sendung rbb24 Brandenburg aktuell.
-Die Unimedizin in Cottbus gilt als eines der Leuchtturmprojekte im Lausitzer Strukturwandel. Bund und das Land wollen laut Schüle bis 2038 rund 2,1 Milliarden Euro für den Aufbau und den Betrieb investieren. Forschungsschwerpunkte sollen Gesundheitssystemforschung und Digitalisierung des Gesundheitswesens sein. Das Carl-Thiem-Klinikum (CTK) Cottbus soll zum Universitätsklinikum und "Digitalen Leitkrankenhaus" ausgebaut werden.
-
-Ministerpräsident Woidke und Lausitzbeauftragter Freytag bei der Vorstellung der Imagekampagne (Bild: dpa)
-dpa
-Strukturwandel
-Imagekampagne soll Fachkräfte in "krasse Gegend" Lausitz ziehen
-Wissenschaftsrat muss Konzept zustimmen
-Damit soll in Cottbus die 37. staatliche Unimedizin in Deutschland entstehen, die laut Manja Schüle ein "absolutes Alleinstellungsmerkmal" haben werde. "Die Verknüpfung von Versorgung, Lehre und Forschung mit den Schwerpunkten 'Gesundheitssystemforschung' und 'Digitalisierung des Gesundheitswesens' ist ein Profil, das es bisher nirgends in Deutschland gibt", wird sie in der Mitteilung der Staatskanzlei zitiert.
-Nachdem nun das Konzept vorliegt, wird es Ende März dem Wissenschaftsrat zur Prüfung vorgelegt. Die Arbeit werde laut Schüle etwa ein Jahr dauern, ein Ergebnis werde im Frühjahr 2024 erwartet. "Abhängig davon könnte die Medizinische Universität Mitte 2024 gegründet werden, 2026 könnten dann die ersten Studierenden starten", so die Staatskanzlei.
-
-Das CTK Cottbus soll nach den Plänen im Jahr 2024 als Uniklinikum in Landesträgerschaft überführt werden. Bis 2035 soll der Vollausbau der Unimedizin abgeschlossen sein. Bis zu 1.300 Arbeitsplätze sollen in Forschung und Lehre entstehen. Geplant werde mit 200 Studienanfängern pro Jahr. "Im Endausbau werden etwa 1.200 junge Menschen in Cottbus Medizin studieren", so Schüle in der Mitteilung der Staatskanzlei. Die ersten Lausitzer Ärzte sollen im Jahr 2032 die Uni verlassen.
-
-Der Weg zur Unimedizin
-Seit Jahren wird darüber gesprochen, dass künftig Medizinernachwuchs aus Cottbus kommen soll. Im Jahr 2019 war das erste Mal von einem Medizinstudium die Rede. Im Zuge des Strukturwandels solle eine staatliche Medizin-Fakultät mit dem Schwerpunkt digitale Medizin aufgebaut werden, die ersten Studenten sollten im Semester 2023/2024 starten - so damals der Plan, den der Brandenburger Ministerpräsident Dietmar Woidke und die damalige Wissenschaftsministerin Martina Münch (beide SPD) vorgestellt hatten.
-
-Im August 2021 hatte eine Expertenkommission dem Land Brandenburg schließlich konkrete Vorschläge für ein Projekt mit dem Namen "Innovationszentrum Universitätsmedizin (IUC)" vorgelegt. Demnach sollte an der BTU Cottbus-Senftenberg eine Medizinische Fakultät gegründet werden. Die Komission war es auch, die vorgeschlagen hatte, das CTK Cottbus zu einem Universitätsklinikum in Landesträgerschaft und einem "Digitalen Leitkrankenhaus" auszubauen.
-
-BTU Hörsaal (Foto: rbb)
-rbb
-Medizinische Hochschule in der Lausitz
-Cottbus soll offenbar eine zweite Universität bekommen
-Anfang 2023 wurde bekannt, dass für die geplante Medizinerausbildung offenbar eine eigene Universität gegründet werden soll. In einem Schreiben zeigte sich BTU-Präsidentin Gesine Grande unzufrieden. "Wir bedauern diese Entscheidung außerordentlich und sehen sie aus wissenschaftlicher und hochschulpolitischer Sicht kritisch."
-
-Seit die Expertenkommission vorgeschlagen hatte, die geplante Medizinerausbildung in die BTU zu integrieren, habe die Uni in gemeinsamen Arbeitsgremien mitgearbeitet und "mit Leidenschaft" ein passfähiges Konzept erstellt. "Diese Entscheidung kam für uns unerwartet, auch weil wir in den Entscheidungsprozess nicht eingebunden waren", erklärte Grande weiter.
-
-Dem rbb sagte Grande: "Es ist klar, dass die Universitätsmedizin ohne die BTU die Lehre in den Grundlagenfächern oder die angedachten interprofessionellen Schwerpunkte gar nicht gestalten kann." Wissenschaftsministerin Manja Schüle hat angekündigt, dass enge Kooperationen zwischen beiden Universitäten geplant seien.
-
-
-Sendung: Antenne Brandenburg, 21.03.2023, 15:10 Uhr
 
 == Das Umfeld Krankenhaus für EAM
 * Herausforderungen und Besonderheiten des Krankenhausumfelds
+  ** Einzigartigkeit des Geschäftsmodells von Krankenhäusern
+  ** Hohe Komplexität pro Mitarbeiter im Vergleich zu anderen Branchen
+
+* Carl-Thiem Klinikum (CTK) Geschäftsmodell
+  ** Cashflow wird über Diagnosis Related Groups (DRG) definiert
+  ** Es gibt 1300 unterschiedliche abrechenbare Behandlungen (DRGs)
+  *** Beispiele für DRGs:
+      *** Geburt eines Kindes
+      *** Diagnose eines Herzinfarkts
+      *** Operation zur Einsetzung einer Kniegelenkprothese
+  ** Im Jahr 2021:
+      *** Die CTK-Gruppe führte etwa 1000 von den 1300 möglichen Behandlungen durch
+      *** Die Behandlungen waren fast gleichmäßig auf die Hauptgruppen verteilt
+      *** Das "Customer Facing Service-Portfolio" bestand aus rund 1000 spezialisierten Dienstleistungen
+
 * Komplexität der Arbeit: DRGs und Mitarbeitervergleich
+  ** Die Vielfalt und Spezialisierung der Dienstleistungen im Krankenhausumfeld
+  ** Notwendigkeit einer effizienten und genauen Abrechnung für jede einzelne Behandlung
+
 
 == EAM Methoden: Capability Model & Domänenlandkarte
+* Sicherstellung der EAM-Hygiene
+  ** Wichtigkeit der allgemeinen Konsistenz im Enterprise Architecture Management
+  ** Verwendung von Business Capability Models zur Validierung von Domänen
+  *** Etwa 300 Capabilities im Business Capability Model
+  *** Methoden zur Erstellung: Befragungen, Datenanalyse und Best Practices
+
 * Definition und Bedeutung des Capability Models
+  ** Definition der wichtigsten Geschäftsfähigkeiten
+  ** Etwa 500 Anwendungen im Modell
+  ** Herleitung von Architecture Domain Models
+  *** Beachtung von Conways Law: Organisationsstrukturen beeinflussen die entworfenen Systeme
+  *** Identifizierung der wichtigsten Anwendungscluster durch Befragungen, Datenanalyse und Best Practices
+
 * Erstellung und Nutzung der Domänenlandkarte
+  ** Systematisches Quality Requirements Engineering
+  ** Herausforderungen durch Legacy-Systeme
+  *** Das Krankenhaus ist 100 Jahre alt, was bedeutet, dass es eine Technologiegeschichte von 100 Jahren in der Organisation gibt
+  *** Notwendigkeit, alte Technologien und Systeme zu berücksichtigen und zu integrieren
+
 * Review
+  ** Überprüfung und Anpassung der erstellten Modelle und Landkarten
+  ** Ständige Aktualisierung und Anpassung an sich ändernde Geschäftsanforderungen und Technologietrends
+
 
 == EAM Methoden: Systemarchäologie
 * Herausforderungen von Legacy-Architekturen
-* Kollaborative Ansätze zur Aufarbeitung
+  ** Notwendigkeit, alte Systeme und Technologien zu verstehen und zu integrieren
+  ** Schwierigkeiten bei der Aktualisierung und Anpassung an moderne Technologiestandards
+
+* EAM-Hygiene im Kontext der Systemarchäologie
+  ** Systematische Vorgehensweise zur Erstellung eines klaren Bildes von Legacy-Architekturen
+  ** Validierung strukturierter Daten zur genauen Abbildung der bestehenden Systemlandschaft
+
+* Kollaborative Ansätze zur Aufarbeitung von Legacy-Architekturen
+  ** Entwicklung kollaborativer Methoden zur Integration von Dokumentation und Strukturdaten
+  ** Einbeziehung verschiedener Stakeholder und Experten zur gemeinsamen Aufarbeitung und Dokumentation
+  ** Ziel: Ein konsistentes und aktuelles Bild der gesamten Systemlandschaft zu erhalten
+
 
 == Koordination mit Program Portfolio Management
-* Scoping von Projekten: Iterative vs. Greenfield-Ansätze
+* Scoping von Projekten: Iterative Ansätze
+  ** Greenfield-Ansätze sind nicht umsetzbar
+  *** Begrenzte Kapazitäten im Fachbereich, insbesondere beim medizinischen Personal
+  *** Notwendigkeit für kontinuierlichen Betrieb ohne Unterbrechungen
+  *** Vermeidung von Big-Bang-Migrationen aufgrund der kritischen Natur des Geschäftsbetriebs
+  ** Viele kleine, schrittweise Veränderungen sind bevorzugt, um Risiken zu minimieren und den Betrieb aufrechtzuerhalten
+
 * Bedeutung für die EAM
+  ** EAM-Umsetzung dient zur Unterstützung des Projektportfolio-Managements
+  *** Überprüfung von Architekturänderungen
+  *** Sicherstellung, dass das Projektportfolio MECE ist (Mutually Exclusive, Collectively Exhaustive)
+  ** Zusammenarbeit mit dem Projekt Portfolio Management
+  *** Arbeiten im Einklang mit den Zielen und Prioritäten des Projektportfolios
+  *** Harmonisierung von Projekt-Scopes sukzessive, um Konsistenz und Effizienz zu gewährleisten
+
 
 == EAM-Strategie: Prinzipienbasiertes Arbeiten
 * Definition und Vorteile des prinzipienbasierten Arbeitens
