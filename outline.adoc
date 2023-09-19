@@ -166,3 +166,17 @@ image::eam-strategy-ecosystem/ecosystem-basic-model.png[]
 
 
 image::eam-strategy-ecosystem/ctk-ecosystem-model.png[]
+
+== Fazit und Ausblick
+
+Das Krankenhausumfeld ist einzigartig in seiner Komplexität und Dynamik. Die Einführung von Enterprise Architecture Management (EAM) in einem großen deutschen Krankenhaus, insbesondere im Kontext der Region Lausitz und des Kohleausstiegs, stellt eine bedeutende Herausforderung dar, bietet jedoch auch immense Chancen.
+
+Integration von Historie und Zukunft: Die historische Bedeutung der Lausitz und der anstehende Kohleausstieg bilden den Hintergrund für die Notwendigkeit einer robusten und zukunftsorientierten IT-Strategie. Die Gründung einer eigenen Universität für das Medizinstudium in Cottbus zeigt den Willen und das Engagement, in die Zukunft der Region und des Gesundheitssektors zu investieren.
+
+Bedeutung des Gesundheitssektors: Der Gesundheitssektor spielt eine entscheidende Rolle im Bruttoinlandsprodukt Deutschlands. Die Daten zeigen, dass die Investitionen in den Gesundheitssektor, insbesondere in Krankenhäuser, stetig wachsen. Dies unterstreicht die Notwendigkeit einer soliden und effizienten IT-Strategie.
+
+Herausforderungen und Chancen durch EAM: Durch die Einführung von EAM-Methoden wie dem Capability Model, der Domänenlandkarte und der Systemarchäologie können Krankenhäuser ihre IT-Landschaft besser verstehen, optimieren und zukunftssicher gestalten. Die Koordination mit dem Program Portfolio Management stellt sicher, dass die IT-Strategie mit den Geschäftszielen in Einklang steht.
+
+Strategische Ausrichtung durch EAM: Die prinzipienbasierte Arbeitsweise und die Business Ökosystem Analyse bieten einen strategischen Rahmen, um die IT-Strategie an den Geschäftszielen und dem Marktumfeld auszurichten.
+
+Insgesamt zeigt sich, dass EAM nicht nur ein Werkzeug für die IT-Strategie ist, sondern auch ein entscheidender Faktor für den Geschäftserfolg. Die kontinuierliche Anpassung und Optimierung der IT-Landschaft in Reaktion auf interne und externe Veränderungen wird es Krankenhäusern ermöglichen, ihre Dienstleistungen effizienter, effektiver und patientenorientierter zu gestalten. Es bleibt spannend zu beobachten, wie sich die EAM-Strategie in den kommenden Jahren entwickeln wird, insbesondere im Licht der dynamischen Veränderungen im Gesundheitssektor und in der Region Lausitz.
