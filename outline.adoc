@@ -59,25 +59,53 @@ https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Gesundheitsausg
 
 
 == Das Umfeld Krankenhaus für EAM
+
 * Herausforderungen und Besonderheiten des Krankenhausumfelds
-  ** Einzigartigkeit des Geschäftsmodells von Krankenhäusern
-  ** Hohe Komplexität pro Mitarbeiter im Vergleich zu anderen Branchen
+** Einzigartigkeit des Geschäftsmodells von Krankenhäusern
+** Hohe Komplexität pro Mitarbeiter im Vergleich zu anderen Branchen
 
 * Carl-Thiem Klinikum (CTK) Geschäftsmodell
-  ** Cashflow wird über Diagnosis Related Groups (DRG) definiert
-  ** Es gibt 1300 unterschiedliche abrechenbare Behandlungen (DRGs)
-  *** Beispiele für DRGs:
-      *** Geburt eines Kindes
-      *** Diagnose eines Herzinfarkts
-      *** Operation zur Einsetzung einer Kniegelenkprothese
-  ** Im Jahr 2021:
-      *** Die CTK-Gruppe führte etwa 1000 von den 1300 möglichen Behandlungen durch
-      *** Die Behandlungen waren fast gleichmäßig auf die Hauptgruppen verteilt
-      *** Das "Customer Facing Service-Portfolio" bestand aus rund 1000 spezialisierten Dienstleistungen
+** Cashflow wird über Diagnosis Related Groups (DRG) definiert
+** Es gibt 1300 unterschiedliche abrechenbare Behandlungen (DRGs)
+*** Beispiele für DRGs:
+**** Geburt eines Kindes
+**** Diagnose eines Herzinfarkts
+**** Operation zur Einsetzung einer Kniegelenkprothese
+** Im Jahr 2021:
+*** Die CTK-Gruppe führte etwa 1000 von den 1300 möglichen Behandlungen durch
+*** Die Behandlungen waren fast gleichmäßig auf die Hauptgruppen verteilt
+*** Das "Customer Facing Service-Portfolio" bestand aus rund 1000 spezialisierten Dienstleistungen
+*** Es arbeiten ca. 3000 Mitarbeiter in der gesamten Klinikgruppe. Daher sind, in einer groben Annäherung, jeder Mitarbeiter mit 30% des Dienstleistungsportfolios assoziiert.
 
 * Komplexität der Arbeit: DRGs und Mitarbeitervergleich
-  ** Die Vielfalt und Spezialisierung der Dienstleistungen im Krankenhausumfeld
-  ** Notwendigkeit einer effizienten und genauen Abrechnung für jede einzelne Behandlung
+** Die Vielfalt und Spezialisierung der Dienstleistungen im Krankenhausumfeld
+** Notwendigkeit einer effizienten und genauen Abrechnung für jede einzelne Behandlung
+
+=== Illustration der Kennzahl am Beispiel ITS-Behandlung
+
+Um die Komplexität der Arbeit im Krankenhausumfeld zu veranschaulichen, wird ein Intensivstationsbett (ITS-Bett) als Beispiel herangezogen.
+
+image::eam-healthcare-kontext/ITS-bed.png[]
+
+* Illustration des ITS-Betts:
+** Perfusoren: Spezialisierte Geräte zur kontinuierlichen Medikamentenabgabe
+** Beatmung: Lebenserhaltende Maschinen zur Unterstützung oder Übernahme der Atmung
+** Bettarbeitsplatz: Zentrale Steuerungseinheit für Patientenüberwachung und -versorgung
+** Stationsarbeitsplatz: Zentrale Einheit für die Koordination der Patientenversorgung auf der Station
+** Spezialarbeitsplätze:
+*** Radiologie: Bildgebende Verfahren zur Diagnose und Behandlung
+*** Mikrobiologie: Untersuchung von Proben auf Krankheitserreger
+*** Labor: Analyse von Blut- und Gewebeproben
+*** Logopädie: Therapie von Sprach-, Sprech- und Schluckstörungen
+*** Ergotherapie: Therapie zur Wiederherstellung der Handlungsfähigkeit im Alltag
+** Reinigung: Gewährleistung der Hygiene und Sauberkeit im Patientenumfeld
+** Sterilisation: Prozess zur Keimfreiheit von medizinischen Instrumenten
+** Anästhesie: Fachbereich für Narkose und Schmerztherapie
+
+Diese Illustration verdeutlicht die immense Komplexität und Spezialisierung, die mit der Versorgung eines einzelnen Patienten auf der Intensivstation verbunden ist. Jeder dieser Bereiche erfordert spezialisiertes Personal, das in direktem oder indirektem Kontakt mit dem Patienten steht, sowie eine genaue Abrechnung und Koordination der erbrachten Leistungen.
+
+
+
 
 
 == EAM Methoden: Capability Model & Domänenlandkarte
