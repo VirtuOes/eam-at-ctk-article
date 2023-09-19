@@ -134,17 +134,35 @@ https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Gesundheitsausg
   *** Harmonisierung von Projekt-Scopes sukzessive, um Konsistenz und Effizienz zu gewährleisten
 
 
-== EAM-Strategie: Prinzipienbasiertes Arbeiten
+== EAM-Strategie: Prinzipienbasiertes Arbeiten Sourcing
 * Definition und Vorteile des prinzipienbasierten Arbeitens
+  ** Ein Ansatz, der auf festgelegten Prinzipien basiert, um Entscheidungen zu treffen und Aktionen zu leiten
+  ** Fördert Konsistenz, Transparenz und Nachvollziehbarkeit in Entscheidungsprozessen
+
 * Entscheidungsbäume in Sourcing-Entscheidungen: Process follows Tool vs. Tool follows Process
+  ** Process follows Tool: Anpassung von Prozessen an verfügbare Tools
+  ** Tool follows Process: Auswahl oder Anpassung von Tools basierend auf bestehenden Prozessen
+
+* Modellierung des EAM-Strategieprozesses
+  ** Verwendung von ArchiMate zur Darstellung von Beziehungen und Abhängigkeiten
+  ** Identifikation von Zielen, Einschränkungen, Handlungssträngen und Lieferergebnissen
 
 image::eam-strategy-pattern/strategy-execution-archimate.png[]
 
 == EAM-Strategie: Business Ökosystem Analyse
 * Bedeutung der Business Ökosystem Analyse für die IT-Strategie
+  ** Die Analyse des Business-Ökosystems ermöglicht es Unternehmen, ihre Position im Markt zu verstehen und wie sie mit anderen Akteuren interagieren.
+  ** Es hilft bei der Identifizierung von Chancen und Risiken, die sich aus der Interaktion mit anderen Akteuren ergeben.
+  ** Die IT-Strategie kann dann darauf ausgerichtet werden, um die Vorteile des Ökosystems zu maximieren und die Risiken zu minimieren.
+
+* Modellierung des Business-Ökosystems
+  ** Verwendung von UML zur Darstellung von Beziehungen und Abhängigkeiten zwischen verschiedenen Akteuren im Ökosystem.
 
 image::eam-strategy-ecosystem/ecosystem-basic-model.png[]
 
 * Aufbau von Fähigkeiten und Partnernetzwerken in der regionalen Branche
+  ** Die Entwicklung von Fähigkeiten und der Aufbau von Partnernetzwerken sind entscheidend für den Erfolg in der regionalen Branche.
+  ** Durch die Zusammenarbeit mit Partnern können Unternehmen ihre Ressourcen und Fähigkeiten bündeln, um gemeinsame Ziele zu erreichen.
+
 
 image::eam-strategy-ecosystem/ctk-ecosystem-model.png[]
