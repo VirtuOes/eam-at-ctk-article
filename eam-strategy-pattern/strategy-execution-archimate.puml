@@ -1,0 +1,78 @@
+@startuml
+!include <archimate/Archimate>
+Motivation_Goal(10, "Audit Wissenschaftsrat 2023 erfolgreich gestalten")
+Motivation_Goal(12, "Audit Expertenkommision 2024 erfolgreich gestalten")
+Motivation_Constraint(14, "Constraint: Zeit bis Inbetriebnahme:24 Monate")
+Motivation_Constraint(16, "Constraint: Zeit bis Inbetriebnahme:3-5 Jahre")
+Strategy_CourseOfAction(17, "Course of action:  Standard-Plattform Rollout")
+Implementation_Deliverable(18, "Delivery:  Standard Software-Plattform")
+Business_Service(21, "Business Process: Software- Entwicklungs")
+Motivation_Goal(22, "Erhöhung der Prozesseffizienz und des AutomatisierungsgradsNutzung von Automatisierung zur Versorgungs-qualitätserhöhung und Mitarbeiterentlastung")
+Strategy_CourseOfAction(25, "Course of action:  Framework & Customizing")
+Implementation_Deliverable(29, "Delivery:  Software-Framwork")
+Business_Service(31, "Business Process:Anforderungs-management")
+Business_Service(32, "Business Process: Entwicklung")
+Business_Service(33, "Business Process:Qualitätssicherung")
+Business_Service(34, "Business Process:Betrieb und Change")
+Motivation_Constraint(38, "Constraint: Zero-Software-Customizing")
+Business_Service(52, "Business Process: Change-Management Prozesse")
+Strategy_CourseOfAction(54, "Course of Action:Arbeitsprozesse im CTK an Standard-Prozesse der Plattform anpassen")
+Strategy_CourseOfAction(57, "Course of Action:Arbeitsprozesse im CTK -mit Framework abbilden")
+Motivation_Constraint(58, "Constraint: Zero-Prozess Change")
+Business_Service(65, "Business Process:Schulung und Training")
+Business_Service(63, "Business Process:Konflikt Resolution")
+Business_Service(64, "Business Process:Prozessanalyse und Veränderungsanalyse")
+Business_Service(69, "Business Process:Kommunikation und Motivation")
+Implementation_Gap(75, "Gap: Product Owning Teams")
+Implementation_Gap(76, "Gap: Prozess Owner Organsiation")
+Implementation_Gap(80, "Gap: Skill-Set & Capacity")
+Strategy_Capability(81, "Fähigkeit:autonome Prozessoptimierung")
+Implementation_Gap(85, "Gap: fehlende Möglichkeit:autonome Prozessoptimierung")
+Implementation_Deliverable(87, "Delivery:  Standard Prozesse")
+Implementation_Deliverable(90, "Delivery:  Custom Software für Prozesse")
+Implementation_Gap(112, "Gap: Prozess Owner Organsiation")
+Implementation_Gap(114, "Gap: Fehlende Möglichkeit:Software Betrieb Out-Sourcing")
+Strategy_Capability(118, "Fähigkeit: Software Betrieb Out-Sourcing")
+Business_Service(121, "Business Process: Out-Sourcing & Vendor Controlling")
+Motivation_Goal(123, "Ausbau Kernkompetenzen und Differenzierungen im Markt: Prozesse XYZ (im jeweiligen Kontext zu definieren)")
+Strategy_Capability(128, "Fähigkeit: Software Support (ITIL Level) Out-Sourcing")
+Business_Service(129, "Business Process: User Support")
+10 --> 14
+12 --> 14
+14 --> 17 : motiviert / erzwingt
+17 --> 38 : motiviert
+16 --> 25 : motiviert / erzwingt
+22 --> 17 : Umsetzung über
+22 --> 25 : Umsetzung über
+25 --> 29 : liefert
+17 --> 18 : liefert
+38 --> 54 : erfordert
+25 --> 58 : motiviert
+58 --> 57 : erfordert
+54 --> 52 : erfordert
+57 --> 21 : erfordert
+21 --> 31
+21 --> 32
+21 --> 33
+21 --> 34
+18 --> 52 : benötigt
+29 --> 21 : benötigt
+57 --> 81 : erzeugt
+63 --> 76 : fehlt derzeit
+21 --> 75 : fehlt derzeit
+21 --> 80 : fehlt derzeit
+87 --> 18 : &
+90 --> 29 : &
+52 --> 63
+52 --> 64
+52 --> 69
+52 --> 65
+31 --> 112 : fehlt derzeit
+54 --> 85 : erzeugt
+54 --> 118 : erzeugt
+57 --> 114 : erzeugt
+118 --> 121 : erfordert
+123 --> 81 : erfordert
+123 --> 16 : motiviert / erzwingt
+54 --> 128 : erzeugt
+@enduml

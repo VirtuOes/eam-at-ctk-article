@@ -36,6 +36,8 @@
 * Definition und Vorteile des prinzipienbasierten Arbeitens
 * Entscheidungsbäume in Sourcing-Entscheidungen: Process follows Tool vs. Tool follows Process
 
+image::eam-strategy-pattern/strategy-execution-archimate.png[]
+
 == EAM-Strategie: Business Ökosystem Analyse
 * Bedeutung der Business Ökosystem Analyse für die IT-Strategie
 * Aufbau von Fähigkeiten und Partnernetzwerken in der regionalen Branche

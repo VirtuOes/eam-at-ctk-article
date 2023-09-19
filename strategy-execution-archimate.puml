@@ -1,5 +1,0 @@
-@startuml
-Motivation_Goal(10, "Audit Wissenschaftsrat 2023 erfolgreich gestalten")
-Motivation_Goal(12, "Audit Expertenkommision 2024 erfolgreich gestalten")
-Motivation_Constraint(14, "Constraint: Zeit bis Inbetriebnahme:24 Monate")
-@enduml

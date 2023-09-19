@@ -92,4 +92,4 @@ def convert_drawio_to_plantuml(xml_path, output_path):
             f.write(line + '\n')
 
 # Example usage (can be adjusted or commented out):
-convert_drawio_to_plantuml('Strategy Execution Patterns.xml', 'output.puml')
+convert_drawio_to_plantuml('Strategy Execution Patterns.xml', 'strategy-execution-archimate.puml')
