@@ -1,0 +1,23 @@
+@startuml
+
+box CTK
+actor MID_Mitarbeiter as MID
+actor Krankenhaus_Mitarbeiter as K
+database KIS as KIS
+end box
+
+box gematik
+database KIM_Server as KIM
+endbox
+
+box partner
+database PartnerSystem as PSys
+actor Partner as P
+endbox
+
+MID -> KIS: KIM-Dienst konfigurieren
+K -> KIS : Dokumentation durchführen
+KIS -> KIM : Daten senden
+KIM -> PSys : Daten senden
+P -> PSys: Daten einsehen
+@enduml

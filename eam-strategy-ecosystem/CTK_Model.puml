@@ -1,0 +1,67 @@
+@startuml
+'left to right direction
+
+package Patienten {
+  actor Patienten as PT
+}
+
+package Orchestrator {
+  actor Orchestrator as O
+}
+
+package "Medizinsche Partner" {
+  actor "Krankenhäuser" as KH
+  actor "Niedergelassene" as AP
+  actor "MVZs" as MVZ
+  actor "Ambulante\nPflegedienste" as PD
+  actor "Rehabilitation-\neinrichtungen" as RE
+  actor "Labore und\nApotheken" as LA
+}
+
+package "Weitere Partner" {
+  actor Zulieferer as Z
+
+}
+
+package "Krankenversicherungen" {
+ actor "Gesetzliche Krankenkassen" as KT
+ actor "Private Krankenkassen" as PKT
+
+}
+package "Bildungseinrichtungen" {
+ actor "BTU Cottbus-Senftenberg" as BTU
+ actor "CTK Akademie" as ACAD
+ actor "Medizinische Schule" as MedSchool
+ actor "UniKlinik Lausitz" as UIC
+}
+
+
+package "Forschungseinrichtungen" {
+ actor "Thiem Reaseach" as TRS
+ actor "Medical Accelerator" as MEDACC
+ actor "BTU Cottbus-Senftenberg" as BTU
+
+}
+
+package "Regulierungsbehörden" {
+  actor "Regulierungs-\nbehörden" as R
+}
+PT -- Krankenversicherungen : Leistungsinanspruch-\nnahme & Bezahlung
+PT -- "Medizinsche Partner": Medizinische\nVersorgung
+PT --"Weitere Partner": : Technologie-\nunterstützung
+
+Orchestrator -- "Medizinsche Partner" : Koordination &\nIntegration
+Orchestrator -- "Weitere Partner" : Technologie-\nunterstützung
+
+
+"Medizinsche Partner" -- R : Einhaltung von\nVorgaben
+"Medizinsche Partner" -- Z : Technologie-\nunterstützung
+"Medizinsche Partner" -- Krankenversicherungen : Vergütung von\nLeistungen
+
+"Bildungseinrichtungen" -- "Medizinsche Partner" : Ausbildung
+"Forschungseinrichtungen" -- "Medizinsche Partner" : Forschung&Entwicklung
+"Weitere Partner" -- R : Einhaltung von\nVorgaben
+
+
+
+@enduml

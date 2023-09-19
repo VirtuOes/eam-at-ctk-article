@@ -1,0 +1,31 @@
+@startuml
+box "CTK Systems" #LightBlue
+actor Krankenhaus_Mitarbeiter as K
+database KIS
+database System1 as Sys1
+database MIRTH_Server as MIRTH
+database IOP_Platform as IOP
+end box
+
+box "External Systems" #LightYellow
+database PartnerSystem as PSys
+actor Partner as P
+end box
+
+K -> KIS : Daten dokumentieren
+KIS -> Sys1 : Daten speichern
+Sys1 -> MIRTH : Daten senden
+MIRTH -> IOP : Daten an IOP senden
+
+note over IOP : Integration in IOP beginnt
+IOP -> IOP : Master Patient Index aktualisieren
+IOP -> IOP : Healthcare Provider Directory aktualisieren
+IOP -> IOP : Content Management System aktualisieren
+IOP -> IOP : Daten in Document & Data Registry registrieren
+note over IOP : Integration in IOP beendet
+
+P -> PSys : Datenzugriff anfordern
+PSys -> IOP : Datenanfrage
+IOP -> PSys : Daten bereitstellen
+P -> PSys : Patientendaten einsehen
+@enduml

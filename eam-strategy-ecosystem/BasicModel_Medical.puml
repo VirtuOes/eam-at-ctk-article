@@ -1,0 +1,27 @@
+@startuml
+actor Orchestrator as O
+actor Partner as P
+actor Zulieferer as Z
+actor "Regulierungs-\nbehörden" as R
+actor Patienten as PT
+actor "Kostenträger" as KT
+
+O -- P : Koordination &\nIntegration
+O -- Z : Technologie-\nunterstützung
+O -- R : Einhaltung von\nVorgaben
+O -- PT : Verbesserte\nPatientenversorgung
+O -- KT : Zusammenarbeit &\nVergütungsmodelle
+
+P -- PT : Medizinische\nVersorgung
+P -- R : Einhaltung von\nVorgaben
+P -- Z : Technologie-\nunterstützung
+P -- KT : Vergütung von\nLeistungen
+
+Z -- R : Einhaltung von\nVorgaben
+Z -- PT : Technologie-\nunterstützung
+
+R -- PT : Schutz der\nPatientenrechte
+R -- KT : Regulierung von\nFinanzierungsmodellen
+
+PT -- KT : Leistungsinanspruch-\nnahme & Bezahlung
+@enduml

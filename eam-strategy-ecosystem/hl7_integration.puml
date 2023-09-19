@@ -1,0 +1,19 @@
+@startuml
+box CTK
+actor MID_Mitarbeiter as MID
+actor Krankenhaus_Mitarbeiter as K
+database KIS as KIS
+database MIRTH_Server as MIRTH
+end box
+
+database PatnerSystem as PSys
+actor Partner as P
+
+MID -> PSys  : VPN Verbindung konfigurieren
+MID -> MIRTH: Verbindungs-Channel konfigurieren
+MIRTH -> PSys : VPN Verbindung herstellen
+K -> KIS: Dokumentation durchführen
+KIS -> MIRTH : Daten senden
+MIRTH  -> PSys: Daten bereitstellen (HL7)
+P -> PSys: Patientendaten abrufen
+@enduml

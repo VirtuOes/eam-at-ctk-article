@@ -1,0 +1,59 @@
+@startuml
+'left to right direction
+
+package Orchestrator {
+actor Orchestrator as O
+}
+note top of O
+Die Orchestrator-Position stellt die
+Infrastruktur bzw. die Plattform bereit,
+definiert den Grad der Offenheit und
+setzt die Regeln des Miteinanders fest.
+end note
+
+
+package Partner {
+actor Partner as P
+}
+note right of P
+Partner bringen ihre Inhalte, Produkte
+und Services in das Ökosystem ein und
+erweitern das Wertversprechen des
+führenden Unternehmens.
+end note
+
+package Zulieferer {
+actor Zulieferer as Z
+}
+note top of Z
+Zulieferer fungieren eher im Hintergrund,
+indem sie die Plattform um technologische
+Komponenten erweitern, z.B. Bezahlplattform,
+Shopsystem oder andere Technologien.
+end note
+
+actor Endkunde as E
+
+O -- E : Bereitstellung von\nLeistungen & Produkten
+
+O -- P : Bereitstellung von\nInhalten, Produkten\n& Services
+P -- O : Erweiterung des\nWertversprechens
+Z -- O : Erweiterung der\nPlattform-Komponenten
+
+O -- Z : Technologie-\nUnterstützung
+
+
+
+
+
+
+
+
+note top of E
+Endkunden sind die Nutzer der Produkte
+und Dienstleistungen, die von Orchestrator,
+Partnern und Zulieferern bereitgestellt
+werden.
+end note
+
+@enduml
